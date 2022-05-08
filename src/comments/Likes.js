@@ -1,5 +1,6 @@
 import { useState } from "react";
 import {ChevronUpIcon, ChevronDownIcon} from '@primer/octicons-react'
+import "./style.css"
 
 const Likes = () => {
 

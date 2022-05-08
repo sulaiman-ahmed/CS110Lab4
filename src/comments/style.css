@@ -1,0 +1,21 @@
+.row {
+    padding: 10px;
+    height: 120px;
+    /* box-shadow: 2px 2px #888888; */
+}
+
+.text-start {
+    width: 500px;
+}
+
+.Likes {
+    position: relative;
+    left: 800px;
+    bottom: 90px;
+}
+
+.replies {
+    position: relative;
+    left: 100px;
+}
+
