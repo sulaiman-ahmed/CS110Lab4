@@ -3,7 +3,7 @@ import Comments from "./comments/Comments";
 const App = () => {
   return (
     <div>
-      <h1>React Comment Post </h1>
+      <h1>Comment Board</h1>
       <Comments/>
     </div>
   );

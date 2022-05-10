@@ -18,7 +18,7 @@ const CommentForm = ({
   };
 
   return (
-    <div className="card container-md mt-4">
+    <div className="card container-md mt-4" id="card">
       {heading && <h2 className="text-start mt-3"><strong>{heading}</strong></h2>}
       <form className="py-3" onSubmit={onSubmit}>
           <div className="mb-3">

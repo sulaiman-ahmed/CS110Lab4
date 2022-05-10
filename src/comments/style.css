@@ -16,8 +16,11 @@
 
 .Likes {
     position: relative;
-    left: 800px;
-    bottom: 90px;
+    left: 80px;
+}
+
+#NumLikes {
+    margin-left: 16px;
 }
 
 .replies {
@@ -31,4 +34,10 @@
     width: auto;
     /* margin: 80px auto 0px auto; */
     /* padding: 10px 10px;  */
+    margin-bottom: 10px;
+}
+
+#card {
+    max-width: 700px;
+    margin-bottom: 20px;
 }
