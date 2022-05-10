@@ -1,6 +1,7 @@
 import { useState } from "react";
 import CommentForm from "./CommentForm";
 import Likes from "./Likes";
+import "./style.css"
 
 const Comment = ({
   comment,

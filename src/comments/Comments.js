@@ -1,7 +1,7 @@
 import { useState } from "react";
 import CommentForm from "./CommentForm";
 import Comment from "./Comment";
-
+import "./style.css"
 
 const Comments = () => {
   const [replieList, setReplyList] = useState([]);
