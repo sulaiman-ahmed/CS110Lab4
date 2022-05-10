@@ -1,7 +1,13 @@
 .row {
     padding: 10px;
-    height: 120px;
-    /* box-shadow: 2px 2px #888888; */
+    width: 900px;
+    border-bottom: 1px solid black;
+    border-left: 1px solid gainsboro;
+    border-top: 1px solid black;
+    border-right: 1px solid gainsboro;
+    /* min-height: 50px; */
+    /* box-shadow: 2px 2px #888888;     */
+
 }
 
 .text-start {
@@ -19,3 +25,10 @@
     left: 100px;
 }
 
+.comments-container {
+    min-height: 300px;
+    height: auto;
+    width: auto;
+    /* margin: 80px auto 0px auto; */
+    /* padding: 10px 10px;  */
+}
